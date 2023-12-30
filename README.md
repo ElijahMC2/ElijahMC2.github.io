@@ -2,7 +2,7 @@ Table 1 (shown in file) displays a cross-classification of a sample of infants. 
 and smoking puts a new-born baby at risk. You may use any methods you deem appropriate including
 methods not covered in 220A to address the following specific questions.
 (a) Are young mothers or older mothers more likely to smoke?
-(b) Are smokers more likely to have premature babies? Are older mothers more likely to have premature babies?
+(b) Are smokers more likely to have premature babies? Are older mothers more likely to have premature babies?
 (c) Are smokers more likely to have babies who died in the 1st year? Are older mothers more likely
 to have babies who died in the 1st year?
 (d) How do age and smoking habits affect survival? How does age and smoking habits affect gestational
