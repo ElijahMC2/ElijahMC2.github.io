@@ -1,3 +1,6 @@
+
+PROJECT 1
+
 Table 1 (shown in file) displays a cross-classification of a sample of infants. Investigate whether or not a mother’s age
 and smoking puts a new-born baby at risk. You may use any methods you deem appropriate including
 methods not covered in 220A to address the following specific questions.
@@ -13,3 +16,6 @@ smoking habits affect survival among premature babies with older mothers?
 Write a report (no more than 4 pages) to a physician describing your analysis methods, conclusions,
 and any limitations of these. When writing your report, assume that this physician only has very
 introductory statistical training.
+
+
+PROJECT 2
