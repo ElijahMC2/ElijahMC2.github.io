@@ -1,0 +1,5 @@
+Predicting voter behavior is complicated for many reasons despite the tremendous effort in collecting, cleaning, analyzing, and understanding many available datasets. As the midterm elections in the United States is currently being held near the midpoint of the current president’s four-year term of office, it is a good time for us to review the 2020 United States presidential election data! Despite that the 2016 presidential election came as a big surprise to many, Biden’s victory in the 2020 presidential election has been widely predicted (e.g., see the well-known Nate Silver in FiveThirtyEight).
+
+For our final project, we will analyze and visualize the 2020 presidential election dataset. We will primarily work towards building state/county-level red/blue map plots that are commonly shown on media coverage.
+
+In addition, we will combine the Untied States county-level census data with the election data. Our target would then be building and selecting classification models (among many predictive models that we’ve covered in this quarter) to predict the election winner.
